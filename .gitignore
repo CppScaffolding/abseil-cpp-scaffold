@@ -1,0 +1,4 @@
+## .gitignore file for abseil-cpp-scaffold
+
+## ignore folder fetched through gclient
+abseil-cpp
